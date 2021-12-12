@@ -7,7 +7,7 @@
 * [Multi-Metaverse](onston-metaverse/multi-metaverse.md)
 * [Metaverse with NFT Objects](onston-metaverse/metaverse-with-nft-objects.md)
 * [ONSTON Creator](onston-metaverse/onston-creator.md)
-* [Map of ONSTON Metaverse](onston-metaverse/map-of-onston-metaverse.md)
+* [Draft Idea](onston-metaverse/draft-idea.md)
 * [LAND on ONSTON Metaverse](onston-metaverse/land-on-onston-metaverse.md)
 * [Entertainment](onston-metaverse/entertainment.md)
 * [VR experience space](onston-metaverse/vr-experience-space.md)
