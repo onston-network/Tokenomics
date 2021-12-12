@@ -6,3 +6,8 @@ coverY: 0
 
 # Entertainment
 
+ONSTON signed ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
+
+
+
+![](<../.gitbook/assets/image (5).png>)
