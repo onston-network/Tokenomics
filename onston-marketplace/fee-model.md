@@ -6,3 +6,4 @@ coverY: 0
 
 # Fee model
 
+Every transactions should store in ONSTON's own blockchain.&#x20;

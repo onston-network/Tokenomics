@@ -17,6 +17,7 @@
 
 * [Decentralized trade with ONSTON](onston-marketplace/decentralized-trade-with-onston.md)
 * [Decentralized-Finance](onston-marketplace/decentralized-finance.md)
+* [Play to Earn](onston-marketplace/play-to-earn.md)
 * [Fee model](onston-marketplace/fee-model.md)
 
 ## ONSTON SNS
