@@ -6,10 +6,14 @@ coverY: 0
 
 # Entertainment
 
+## Metaverse Concert
+
 The ONSTON project will collaborate with top class entertainment companies to present metaverse concerts, exhibitions and events, and issue NFT tickets and souvenirs.
 
 ONSTON's XR 3D avatar and the audience gather together in one space on the metaverse to enjoy a realistic concert in VR together, which is now a part of our upcoming future.
 
 ONSTON together with ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
+
+## Partners of Entertainment
 
 ![](<../.gitbook/assets/image (2).png>)
