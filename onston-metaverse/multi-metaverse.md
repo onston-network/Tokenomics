@@ -6,7 +6,7 @@ coverY: 0
 
 # Multi-Metaverse
 
-## The Metaverse station of the Metaverses
+## The Metaverse station of Metaverses
 
 ### Be Station of Different Metaverse
 
