@@ -11,3 +11,7 @@ ONSTON's metaverse uses realistic textured 3D avatars with vision computing and 
 ONSTON's 3D avatar for XR (Extended Reality) based on 3D machine learning accurately reproduces the user's facial movements and appearance, so it can be used seamlessly to convey emotions and body language to others. This further emphasizes the importance of their existence.&#x20;
 
 Full body realism is still in its infancy, but it offers opportunities as technology advances rapidly. Emotional expression conveyed through body language and facial expressions are actually more important than photorealism in creating fully immersive interactions.
+
+{% hint style="info" %}
+XR (eXtended Reality) is a term that refers to a technology that enables mixed reality or mixed reality, including virtual reality and augmented reality. Interaction and experience in three-dimensional space. It is attracting attention as a technology that can increase realistic immersion in untact services.
+{% endhint %}

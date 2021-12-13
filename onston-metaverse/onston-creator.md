@@ -10,7 +10,7 @@ coverY: 0
 
 ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverses.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (7).png>)
 
 ### ONSTON MR SDK
 
