@@ -20,7 +20,3 @@ In order to produce with NFT, activities above a predetermined level required in
 The camera function of ONSTON SNS is equipped with VR photo or video shooting function.
 
 NFT works created on ONSTON SNS can be traded on ONSTON Metaverse Marketplace.
-
-
-
-*
