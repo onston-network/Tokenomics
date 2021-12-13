@@ -12,6 +12,6 @@ LAND stands for logical compartments in the ONSTON metaverse. The area of the ea
 
 The purchase, sale, and rental of LAND via ONSTON.
 
-## Auction New Land
+## New Land with Auction
 
 ONSTON's land is an asset. Users compete for a space that other users may like, and ONSTON periodically offers a certain area of space to users by way of an auction. All of these auctions are made in ONSTON currency, and all auction proceeds are publicly burned to help the soundness of ONSTON's economy.
