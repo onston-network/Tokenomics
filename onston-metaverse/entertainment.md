@@ -12,8 +12,4 @@ ONSTON's XR 3D avatar and the audience gather together in one space on the metav
 
 ONSTON together with ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
 
-
-
-
-
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
