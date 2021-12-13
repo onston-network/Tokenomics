@@ -6,7 +6,7 @@ coverY: 0
 
 # Fee model
 
-### ONSTON Marketplace Fees OpenSea's model is simple&#x20;
+### ONSTON Marketplace Fees
 
 we take 2% of every transaction that happens on ONSTON Marketplace. That's it. Users and partners can create NFTs for free at any time. You can set a royalty of up to 10%. This means you can earn revenue every time your NFT sells on ONSTON Marketplace.
 
