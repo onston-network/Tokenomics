@@ -7,4 +7,8 @@ coverY: 0
 
 # ONSTON Tokenomics
 
-ONSTON Multi-Metaverse
+Welcome to ONSTON Metaverse.
+
+We introduce ONSTON's token economy model by introducing the future of ONSTON.
+
+![](.gitbook/assets/onston.png)
