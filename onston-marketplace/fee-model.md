@@ -14,4 +14,4 @@ we take 2% of every transaction that happens on ONSTON Marketplace. That's it. U
 
 &#x20;If you are creating a collection on behalf of someone or as part of a group, please note that ONSTON Marketplace doesn't support contract level splits at this time.
 
-Every transactions should store in ONSTON's own blockchain.&#x20;
+Every transactions will store in ONSTON's own blockchain.&#x20;

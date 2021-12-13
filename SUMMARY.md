@@ -26,6 +26,4 @@
 
 ## Roadmap
 
-* [2022](roadmap/2022.md)
-* [2023](roadmap/2023.md)
-* [2024](roadmap/2024.md)
+* [Roadmap of ONSTON](roadmap/roadmap-of-onston.md)
