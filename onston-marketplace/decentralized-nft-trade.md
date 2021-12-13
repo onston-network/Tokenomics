@@ -4,5 +4,8 @@ cover: >-
 coverY: 0
 ---
 
-# Decentralized trade with ONSTON
+# Decentralized NFT trade
 
+## NFT Marketplace
+
+Non-fungible tokens, more commonly known as NFTs, are the latest trend in the decentralized marketplace. NFTs are tokens typically used to authenticate digital ownership of physical assets attached to tokens, allowing creators to release work digitally without the risk of forgery. Due to this, land, buildings, and objects, including avatars in the ONSTON metaverse, can be recognized for their ownership and copyright and lead to safe economic activities.
