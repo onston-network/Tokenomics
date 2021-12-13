@@ -4,7 +4,6 @@ cover: >-
 coverY: 0
 ---
 
-# Map of ONSTON Metaverse
+# ONSTON Metaverse
 
-![Draft designed Idea](<../.gitbook/assets/image (3).png>)
-
+![The ONSTON Metaverse ](<../.gitbook/assets/image (5).png>)

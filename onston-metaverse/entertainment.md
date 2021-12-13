@@ -10,4 +10,4 @@ ONSTON signed ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
 
 
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
