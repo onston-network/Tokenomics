@@ -16,4 +16,4 @@ ONSTON together with ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
 
 ## Partners of Entertainment
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)

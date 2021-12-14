@@ -4,6 +4,6 @@ cover: >-
 coverY: 0
 ---
 
-# ONSTON Metaverse
+# ONSTON Metaverse™
 
-![The ONSTON Metaverse ](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
