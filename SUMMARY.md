@@ -8,22 +8,22 @@
 * [Metaverse with NFT Objects](onston-metaverse/metaverse-with-nft-objects.md)
 * [ONSTON Metaverse™](onston-metaverse/onston-metaverse-tm.md)
 * [ONSTON Creator™](onston-metaverse/onston-creator-tm.md)
-* [LAND on ONSTON Metaverse](onston-metaverse/land-on-onston-metaverse.md)
-* [XR 3D Avatar](onston-metaverse/xr-3d-avatar.md)
-* [VR experience space](onston-metaverse/vr-experience-space.md)
-* [Entertainment](onston-metaverse/entertainment.md)
 
-## ONSTON Marketplace
+## ONSTON VR
 
-* [Decentralized NFT trade](onston-marketplace/decentralized-nft-trade.md)
-* [Decentralized-Finance](onston-marketplace/decentralized-finance.md)
-* [Play to Earn](onston-marketplace/play-to-earn.md)
-* [Fee model](onston-marketplace/fee-model.md)
+* [VR experience space](onston-vr/vr-experience-space.md)
+* [Entertainment](onston-vr/entertainment.md)
 
-## ONSTON SNS
+## ONSTON Function
 
-* [SNS in ONSTON Metaverse](onston-sns/sns-in-onston-metaverse.md)
+* [LAND on ONSTON Metaverse](onston-function/land-on-onston-metaverse.md)
+* [Lending](onston-function/lending.md)
+* [Decentralized NFT trade](onston-function/decentralized-nft-trade.md)
+* [XR 3D Avatar](onston-function/xr-3d-avatar.md)
+* [SNS in ONSTON Metaverse](onston-function/sns-in-onston-metaverse.md)
+* [Play to Earn](onston-function/play-to-earn.md)
 
 ## Roadmap
 
+* [Fee model](roadmap/fee-model.md)
 * [Roadmap of ONSTON](roadmap/roadmap-of-onston.md)
