@@ -15,3 +15,7 @@ The purchase, sale, and rental of LAND via ONSTON.
 ## New Land with Auction
 
 ONSTON's land is an asset. Users compete for a space that other users may like, and ONSTON periodically offers a certain area of space to users by way of an auction. All of these auctions are made in ONSTON currency, and all auction proceeds are publicly burned to help the soundness of ONSTON's economy.
+
+## LAND FOR GUILD
+
+온스톤 메타버스에서 길드 커뮤니티를 위한 LA ND를 제공합니다. LAND의 소유는 길드원에게 기여도에 따라 제공 합니다.

@@ -9,24 +9,24 @@
 * [Metaverse with NFT Objects](onston-metaverse/metaverse-with-nft-objects.md)
 * [Multi NFT Marketplace](onston-function/decentralized-nft-trade.md)
 * [NFT Creator™](onston-metaverse/onston-creator-tm.md)
-* [DAO Guild System](multi-metaverse/dao-guild-system.md)
-* [Guild DAO system](multi-metaverse/guild-dao-system.md)
 * [SWAP](multi-metaverse/swap.md)
 
 ## ONSTON Metaverse
 
-* [Metaverse Ecosystem](onston-metaverse/metaverse-ecosystem.md)
+* [Metaverse Ecosystem](onston-metaverse/metaverse-ecosystem/README.md)
+  * [Circular economic ecosystem.](onston-metaverse/metaverse-ecosystem/circular-economic-ecosystem..md)
 * [LAND](onston-function/land-on-onston-metaverse.md)
 * [VR experience space](onston-vr/vr-experience-space.md)
 * [Edit Tool](onston-metaverse/edit-tool.md)
 * [Entertainment](onston-vr/entertainment.md)
 * [XR 3D Avatar](onston-function/xr-3d-avatar.md)
 * [EDIT TOOL](onston-metaverse/edit-tool-1.md)
+* [Play to Earn](onston-metaverse/play-to-earn.md)
 
 ## Community
 
-* [Play to Earn](community/play-to-earn.md)
-* [Guild Community](community/guild-community.md)
+* [Guild DAO system](community/guild-dao-system.md)
+* [P2E Community](community/p2e-community.md)
 * [SNS ](onston-function/sns-in-onston-metaverse.md)
 
 ## Tokenomics
@@ -39,4 +39,4 @@
 ## Group 1
 
 * [Roadmap of ONSTON](roadmap/roadmap-of-onston.md)
-* [M](group-1/m.md)
+* [Milestone](group-1/milestone.md)

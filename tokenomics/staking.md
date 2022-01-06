@@ -1,3 +1,3 @@
 # Staking
 
-coming soon!
+Comming soon!
