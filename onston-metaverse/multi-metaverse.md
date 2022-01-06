@@ -19,3 +19,5 @@ NFT Object used in various differnt metaverses can be transformed for value exch
 ### We called it "Multi-Metaverse"
 
 We use ONSTON as a key currency to build new  concept metaverse with the goal of establishing decentralized of transfer between different metaverses, which we call multi-metaverse.
+
+Onston Multi-metaverse is fair and equal to everyone. Onston's goal is to create a decentralized metaverse where everyone can be happy.

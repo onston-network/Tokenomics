@@ -1,5 +1,4 @@
 ---
-description: to be determine
 cover: >-
   https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxyb2FkbWFwfGVufDB8fHx8MTYzOTQxOTI1NQ&ixlib=rb-1.2.1&q=85
 coverY: 0

@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# LAND on ONSTON Metaverse
+# LAND
 
 ## What is ONSTON's Land
 

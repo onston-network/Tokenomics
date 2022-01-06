@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Fee model
+# ONSTON Fee system
 
 ### ONSTON Marketplace Fees
 

@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Decentralized NFT trade
+# Multi NFT Marketplace
 
 ## NFT Marketplace
 

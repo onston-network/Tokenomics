@@ -1,11 +1,10 @@
 ---
-description: to be determine
 cover: >-
   https://images.unsplash.com/photo-1556326059-12646fcadd35?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxzbnN8ZW58MHx8fHwxNjM5MjUxMDM5&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
-# SNS in ONSTON Metaverse
+# SNS&#x20;
 
 ## Who use ONSTON SNS
 
