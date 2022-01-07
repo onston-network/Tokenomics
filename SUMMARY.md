@@ -9,7 +9,6 @@
 * [Metaverse with NFT Objects](onston-metaverse/metaverse-with-nft-objects.md)
 * [Multi NFT Marketplace](onston-function/decentralized-nft-trade.md)
 * [NFT Creator™](onston-metaverse/onston-creator-tm.md)
-* [SWAP](multi-metaverse/swap.md)
 
 ## ONSTON Metaverse
 
@@ -17,10 +16,9 @@
   * [Circular economic ecosystem.](onston-metaverse/metaverse-ecosystem/circular-economic-ecosystem..md)
 * [LAND](onston-function/land-on-onston-metaverse.md)
 * [VR experience space](onston-vr/vr-experience-space.md)
-* [Edit Tool](onston-metaverse/edit-tool.md)
+* [EDIT TOOL](onston-metaverse/edit-tool.md)
 * [Entertainment](onston-vr/entertainment.md)
 * [XR 3D Avatar](onston-function/xr-3d-avatar.md)
-* [EDIT TOOL](onston-metaverse/edit-tool-1.md)
 * [Play to Earn](onston-metaverse/play-to-earn.md)
 
 ## Community
