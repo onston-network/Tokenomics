@@ -1,3 +1,3 @@
 # EDIT TOOL
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1).png>)

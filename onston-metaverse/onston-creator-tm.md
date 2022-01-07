@@ -12,13 +12,21 @@ description: NFT AI  창조의 목표
 1. 온스톤에서 만들어지 NFT 오브젝트들을 AI 프로세스에서 이미지를 랜더링 시킨 후 기존 NFT오브젝트를 저장소에 저장한다.
 2. AI가 랜더링한 이미지를 다시 한번 AI가 무작위로 조합을 하여 새로운 랜덤 NFT오브젝트를 생성한다.
 
-&#x20;      ㄴ
+&#x20;    &#x20;
+
+![](<../.gitbook/assets/image (8) (1).png>)
+
+
+
+## 이미지 인식 엔진 기술스텍&#x20;
+
+
+
+![](<../.gitbook/assets/image (9).png>)
 
 ![](<../.gitbook/assets/image (8).png>)
 
-
-
-## Level2 : How it works
+## Level2 : 최종목&#x20;
 
 ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverses.
 
