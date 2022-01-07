@@ -1,7 +1,6 @@
 # Table of contents
 
-* [WHITE PAPER](README.md)
-* [ONSTON INTRODUCTION](<README (1).md>)
+* [ONSTON INTRODUCTION](README.md)
 
 ## Multi Metaverse
 
