@@ -42,4 +42,6 @@ NFT Multi - Marketplace Launching
 
 이미지화 필
 
-![이미](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
+
+온스톤아이콘형태로 이미지 제작필요  &#x20;
