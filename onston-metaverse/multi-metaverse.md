@@ -14,7 +14,7 @@ The ONSTON serves as a Staion in the world wide other metaverses where differnet
 
 ### Intergrated Marketplace&#x20;
 
-NFT Object used in various differnt metaverses can be transformed for value exchange and use in the OONSTON Marketplace via ONSTON Creator. The integrated NFT objects have new values, providing users with higher value and higher ideals.&#x20;
+NFT Object used in various differnt metaverses can be transformed for value exchange and use in the ONSTON Marketplace via ONSTON Creator. The integrated NFT objects have new values, providing users with higher value and higher ideals.&#x20;
 
 ### We called it "Multi-Metaverse"
 
