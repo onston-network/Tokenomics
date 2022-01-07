@@ -44,4 +44,4 @@ coverY: 0
 
 * Development ONSTON Station for implement with other Metaverses
 
-날자 연
+분기 연도 없는 순서 나열 그림 필요
