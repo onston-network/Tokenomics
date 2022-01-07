@@ -9,7 +9,7 @@ coverY: 0
 
 Welcome to ONSTON Metaverse.
 
-We introduce ONSTON's Multimetaverse
+온스톤은탈중앙화된 멀티 메타버스이 &#x20;
 
 Onston is a link that integrates or expands all members of the metaverse community. We will build a multi-metaverse to integrate various metaverse. ONSTON is ONSTON's metaverse platform and serves as a Games, economy, culture and communication platform.
 
