@@ -23,7 +23,6 @@
 ## Community
 
 * [Guild DAO system](community/guild-dao-system.md)
-* [P2E Community](community/p2e-community.md)
 * [Multi Community](community/multi-community.md)
 * [SNS ](onston-function/sns-in-onston-metaverse.md)
 

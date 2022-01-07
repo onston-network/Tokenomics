@@ -42,4 +42,4 @@ NFT Multi - Marketplace Launching
 
 이미지화 필
 
-![이미](<../.gitbook/assets/image (3).png>)
+![이미](<../.gitbook/assets/image (3) (1).png>)
