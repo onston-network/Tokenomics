@@ -14,7 +14,7 @@ NFT Marketplace
 
 Metaverse Platform launching
 
-Developing on NFT Convert-Creator
+Developing on NFT Convert-Creator ㅣ&#x20;
 
 Burning plan
 
