@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# ONSTON INTRODUCTION
+# 🌪 ONSTON INTRODUCTION
 
 Welcome to ONSTON Metaverse.
 

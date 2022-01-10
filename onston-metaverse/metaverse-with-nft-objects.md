@@ -6,11 +6,14 @@ coverY: 0
 
 # Metaverse with NFT Objects
 
-ONSTON's metaverse has a worldview made up of NFTized objects creatively created by various authors.&#x20;
+현재 다양한 메타버스 플랫폼에선 자유도 높은 NFT 제작시스템을 통해 이용자들에게 창조의 자유도를 매우 높은 수준으로 제공하고 있습니다.
 
-The metaverse has become a global trend that no one can deny, and a lot of developers has dream of their own metaverse world and are still being created. Users are expected to migrate to a better platform while experiencing numerous different metaverse platforms in the short future.
+그리고 현재 메타버스는 누구도 부인할 수 없는 세게적인 트렌드로 자리잡았고 많은 개발자들과 아티스트들이 자신만의 메타버스와 자신만의 NFT를 꿈꾸며 메타버스 세게로 뛰어들고 있습니다. 앞으로도 더 많은 메타버스 플랫폼이 생기고 더 많은 개발자들과 아티스트들이 생길 것으로 예상됩니다.
 
 ![](<../.gitbook/assets/image (6) (1).png>)
 
-ONSTON's metaverse invented a way to unify these different metaverses.\
-All NFT objects in the world made irreplaceable in different metaverses can be simply transformed into objects that can be used in ONSTON Metaverse through ONSTON Creator, or acquired through trading in the decentralized ONSTON marketplace and ONSTON Metaverse or another metaverse to help convert it into a usable format.
+온스톤 메타버스는 이러한 다양한 메타버스와 앞으로도 생겨낭 다양한 메타버스. 그리고 NFT를 통해 자신의 창작욕구를 충족하고자 하는 많은 이용자들을 통합할 수 있는 하나의 방법을 발명해낼 것입니다.
+
+기존의, 서로 다른 메타버스상의 NFT는 호환이 불가능하며 다른 메타버스에서 가치 보존이 어렵다는 NFT의 단점을 상쇄시키고 어떤 메타버스에 있던 NFT이던간에 온스톤 메타버스에선 온스톤 메타버스 내의 시스템으로 그 가치를 어느정도 보존할 수 있습니다.
+
+그리고 온스톤은 이러한 다양한 메타버스 상의 NFT를 거래할 수 있는 거대한 하나의 정거장의 역할을 할 수 있습니다.
