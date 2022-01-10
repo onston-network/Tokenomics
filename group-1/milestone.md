@@ -40,7 +40,7 @@ Multi Wallet Launching
 
 NFT Multi - Marketplace Launching
 
-이미지화 필
+이미지화 필 온스톤 아이콘 시계방향으로 &#x20;
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 
