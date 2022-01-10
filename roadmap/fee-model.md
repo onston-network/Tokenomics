@@ -8,8 +8,6 @@ coverY: 0
 
 ### ONSTON Marketplace Fees
 
-we take 2% of every transaction that happens on ONSTON Marketplace. That's it. Users and partners can create NFTs for free at any time. You can set a royalty of up to 10%. This means you can earn revenue every time your NFT sells on ONSTON Marketplace.
-
 수수료는 ONSTON Marketplace에서 발생하는 모든 거래의 5%를 차지합니다. 사용자와 파트너는 언제든지 자유롭게 NFT를 생성할 수 있습니다. 로열티는 최대 10%까지 설정할 수 있습니다. 즉, 귀사의 NFT가 ONSTON Marketplace에서 판매될 때마다 수익을 얻을 수 있습니다.
 
 * [x] &#x20;온스톤 보유자에 대한 수수료 혜택이존재합니다.   &#x20;
