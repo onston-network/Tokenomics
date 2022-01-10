@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ONSTON INTRODUCTION](README.md)
+* [🌪 ONSTON INTRODUCTION](README.md)
 
 ## Multi Metaverse
 
