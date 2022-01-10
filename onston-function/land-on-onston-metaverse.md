@@ -8,7 +8,9 @@ coverY: 0
 
 ## What is ONSTON's Land
 
-LAND stands for logical compartments in the ONSTON metaverse. The area of the early ONSTON metaverse was a performance hall for the MR metaverse established by the ONSTON Foundation, a VR amusement park, etc. A variety of sample spaces are provided, and users can expect profits by building a new experience space here and using it directly or renting it to others.
+랜드란 메타버스내에서 유저에게 폭넓은 자유활동을 보장하는 고유의 공간을 의미합니다.
+
+유저는 자신이 소유한 랜드네에서 자신의 스마트 컨트렉트를 적용시켜 고유한 규칙을 지닌 하나의 독립된 공간으로 이용하거나 자신이 제작한 건축물과 가구들을 진열하여 자신만의 공간을 꾸밀 수 있고 다른 이용자를 초대하여 함께 이용할 수 있습니다.
 
 The purchase, sale, and rental of LAND via ONSTON.
 
@@ -18,4 +20,6 @@ ONSTON's land is an asset. Users compete for a space that other users may like, 
 
 ## LAND FOR GUILD
 
-온스톤 메타버스에서 길드 커뮤니티를 위한 LAND를 제공합니다. LAND의 소유는 길드원에게 기여도에 따라 제공 하며 길드는 제공받은 LAND를 이용할 수 있습니다/.         &#x20;
+온스톤에서는 길드를 위한 LAND를 제공합니다.
+
+길드들은 제공받은 LAND를 이용할 수 있으며 제공하는 LAND는 크기와 위치는 메타버스내 길드 기여도에 따라 변화합니다. 또한 제공받은 LAND를 이용하여 경제활동 및 랜드마크 건설 등 다양하게 이용할 수 있습니다.
