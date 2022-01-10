@@ -12,7 +12,5 @@ Non-fungible tokens, more commonly known as NFTs, are the latest trend in the de
 
 ## Marketplace economy
 
-온스톤 메타버스를 구성하는 거의 모든 구성 요소는 NFT화 할 수 있습니다.
-
-초기엔 메타버스의 초기 공간을 제공할 뿐이지만 온스톤 메타버스 내에서 모든 구조, 공간, 컨텐츠를 NFT화하여 등록할 수 있고 이용자들의 활동을 통해서 초기 상태의 온스톤 메타버스가 점차 완성되어갑니다. 이용자들이 온스톤 메타버스 내에서 재료들을 이용하여 NFT를 만드는 데엔 온스톤 EDIT 툴이 이용됩니다. 거의 모든 것을 제작할 수 있는 온스톤 EDIT 툴을 통해 이용자들은 온스톤 메타버스 내에서 자신의 창작 욕구를 무한히 표현할 수 있습니다. &#x20;
+All elements that make up ONSTON Metaverse are all made of NFTs. It is the ONSTON Project that provides the initial space of the metaverse, but since all spaces, structures, and contents created, cultivated, and used are NFTized and used, users can register NFTs in the market at any time, and registered NFT objects use ONSTON Creator. Through various processes of merging or transforming through various processes, it is possible to upgrade to MR 3D objects with various textures that can be used in the ONSTON metaverse.
 
