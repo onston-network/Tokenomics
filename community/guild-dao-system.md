@@ -1,10 +1,10 @@
 # Guild DAO system
 
-길드 커뮤니티는 온스톤 메타버스에 존재하는 여러개의 AREA에서 각 AREA의 발전을 도모하는 길드들의 커뮤니티입니다.
+Guild Community is a community formed by guilds from many areas in ONSTON Metaverse to seek to develop respective areas.
 
-각 AREA에서는 유저들이 여러 길드를 창설할 수 있고 AREA를 대표하는 길드는 온스톤 거버넌스를 소유한 유저들에 의해 결정이 되며 해당 AREA의 운영권에 참여할 수 있습니다.
+In each AREA, users can form multiple guilds and the representative AREA guild is selected by users who own ONSTON governance and can participate in the management of applicable AREA.
 
-AREA를 대표하는 길드에게는 상점 운영권이 주어지며 자신들의 시그니처 NFT나 제작물등을 판매 또는 임대,전시할 수 있는 권한이 주어집니다.
+The AREA representative guild is given a right to operate shops and a right to sell, lend and demonstrate own signature NFT or other productions.
 
-온스톤에서 길드를 위한 AREA를 일부 제공합니다. 제공된 AREA는 길드가 통합하여 제공된 AREA를 개척할 수 있습니다. 콘서트나 놀이공원 등 문화시설을 개척해서 판매 임대 수익을 누릴수도 있으며 해당 AREA에 그들만의 랜드마크를 건설 할 수도 있습니다.
+Some areas are offered to guild on ONSTON. The provided AREAs are cultivated by guilds in collaboration. Concerts or amusement parks and other cultural entertainment facilities are developed so that profits from sales and lending can be enjoyed, or their own landmark can be built in the AREA.
 
