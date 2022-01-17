@@ -10,4 +10,4 @@
 
 ### Using and Earn
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/Using and Earn.png>)
