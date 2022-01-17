@@ -12,17 +12,17 @@ coverY: 0
 
 > ## ECO SYSTEM
 
-There are Mining Zones in ONSTON.
+온스톤에서는 마이닝존을 제공합니다.
 
-&#x20;Materials (stone, tree, metal ... etc.) needed for different production can be obtained from Mining.  &#x20;
+&#x20;마이닝에서 다양한 제작에 필요한 재료(stone, tree, metal ... etc)를 수급할수있습니다.  &#x20;
 
-Each material is graded, and rare materials can be acquired by certain probability.
+각 재료마단 등급이 존재하며 일정확률로 희귀한 재료를 획득할 수 있습니다
 
-Rare materials are also produced by combining lower grade materials.
+희귀한 료는 하위 재료를 합성하여 제작할 수 있습니다.
 
-The collected materials also be sold on ONSTON shops so that users can enjoy economic activities.    &#x20;
+수집된 재료 역시 온스톤 상점에 판매하여 경제활동을 누릴 수있습니다.    &#x20;
 
-Those collected materials can produce random boxes and upgraded to material of higher grade. Rare materials can be obtained in low probability.
+획득한 재료를 소모해 랜덤박스를 만들 수 있으며 또한 업그레이드를 통해 상위 재료로 갈수도 있으며 적은 확률로 희귀한 재료를 획득할 수 있다.
 
 *
-[x]   * Individual users can unearth materials to make NFTs from mining zones, and if in possession of many ONSTONs, they can either buy materials or sell the materials on ONSTON Market place to accumulate ONSTON currencies.
+[x]   * 개인들은 NFT제작을 위해 마이닝존에서 재료를 수급할 수도, 온스톤이 많다면 온스톤 마켓플레이스에서 재료를 구매할 수도, 돈을 벌고싶다면 수급한 재료를 온스톤 마켓플레이스에 판매할 수도 있습니다.
