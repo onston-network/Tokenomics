@@ -1,22 +1,22 @@
 # EDIT TOOL
 
-## 제네시스 툴&#x20;
+## Genesis Tool&#x20;
 
 {% hint style="info" %}
-제네시스 툴은 온스톤이 제공하는 제작 에딧 툴의 이름입니다.
+Genesis Tool is the name of production edit tool which ONSTON provides.
 {% endhint %}
 
 
 
-온스톤 팀의 임무는 유저들이 게임, 경제, 문화 활동을 자유롭게 창작하고, 공유하며 놀 수 있는 시스템을 구축하는 것이다. 에딧툴로 창조한 NFT오브젝트는 중앙 통제 없이 거래할 수 있고, 수익을 얻음으로써 탈중앙화 마켓을 활성화 시킬 것입니다.
+The mission of ONSTON team is to construct a system where users can create game, economic and cultural activities, share and play. Those NFT objects created by Edit tools can be traded without central control, and the profits can activate decentralized market.
 
-3D 프로그래밍
+3D programming
 
-빌드 에딧 툴
+Build Edit Tools
 
-아바타 커스터마이징 툴
+Avatars Customizing tool
 
-아이템 에딧 툴
+Item Edit tools
 
 
 
