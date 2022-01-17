@@ -15,6 +15,6 @@ ONSTON is a link that integrates or expands all members of the metaverse communi
 
 ONSTON team will build game, economy, culture, and communication platform in ONSTON metaverse using technologies of ONSTON team's VR (virtual reality) and AR (augmented reality) production know-how, facial recognition technology, and VR game to provide users more advanced experience
 
-In addition, instead of staying in one metaverse world, it is linked with several metaverses You will be able to enjoy a variety of content.
+In addition, instead of staying in one metaverse world, it is linked with several metaverses. You will be able to enjoy a variety of content.
 
 ![](.gitbook/assets/onston.png)
