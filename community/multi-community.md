@@ -1,17 +1,13 @@
 # Multi Community
 
-온스톤의 멀티 메타버스세계는 모든 메타버스를 블록체인 기술로 끌어들이는 강력한 매체가 될 것이라고 믿습니다.
+We believe that multi-Metaverse world in ONSTON can be strong medium to attract all Metaverse into blockchain technology.
 
-온스톤 멀티메타버스와 연결된 모든 메타버스의 커뮤니티 또한 연결시키기 위한 커뮤니티를 개설할 예정입니다.
+A community is going to be created To interlink with all communities on Metaverses connected with ONSTON Metaverse.
 
-온스톤 팀은 위 목표를 위해 다음과 같은 도구를 개발할 것입니다.
+ONSTON team will develop the following tools for the above stated goal.
 
-ㅇ 모든 메타버스의 시장을 검색하기 위한 도구&#x20;
-
-ㅇ 모든 메타버스의 유저를 검색하기 위한 도구&#x20;
-
-ㅇ 모든 메타버스의 게임을 검색하기 위한 도구&#x20;
-
-ㅇ 모든 메타버스의 NFT를 검색하기 위한 도구
-
-ㅇ 모든 메타버스의 P2E를 검색하기 위한 도구 &#x20;
+* &#x20;Searching tools for markets in all metaverse
+* Searching tools for users in all metaverse&#x20;
+* Searching tools for games in all metaverse&#x20;
+* Searching tools for NFT in all metaverse
+* &#x20;Searching tools for P2E in all metaverse &#x20;
