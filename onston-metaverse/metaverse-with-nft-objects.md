@@ -10,7 +10,7 @@ Currently many Metaverse Platforms provide very high degree of creative freedom 
 
 And now Metaverse is set as undeniably global trend and many developers and artists visioning their own Metaverse and NFT are rushing to Metaverse world. It is expected that more and more Metaverse platforms will be created, and developers and artists will come along.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 ONSTON Metaverse will invent a way to integrate multitude of users who want to fill own creative desire through various Metaverse and NFT which will come into existence.
 

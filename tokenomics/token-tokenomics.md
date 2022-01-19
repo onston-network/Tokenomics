@@ -2,7 +2,7 @@
 
 이미지 업그레이드 필
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 스타일로 이미지  &#x20;
 
