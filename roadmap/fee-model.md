@@ -13,9 +13,3 @@ Commission take up 5% of any transactions made on ONSTON Marketplace. Users and 
 * [x] &#x20;Transaction benefits exist for ONSTON holders.  &#x20;
 
 ex) For every 1000 ONSTONs, up to 0.5 % transaction fees are discounted, Maximum 2% are given to guild community top members, 1% additional fee discount, the transaction fee can cut down to maximum 1%.
-
-### Splitting Revenue
-
-&#x20;If you are creating a collection on behalf of someone or as part of a group, please note that ONSTON Marketplace doesn't support contract level splits at this time.
-
-Every transactions will store in ONSTON's own blockchain.&#x20;
