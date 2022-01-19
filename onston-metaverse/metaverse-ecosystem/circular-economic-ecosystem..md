@@ -6,6 +6,4 @@ Algorithm of supply and demand automatically updates market prices of materials 
 
 For that, price differences among shops in different areas enable economic activities and influx of population can be ensured through all area.
 
-
-
-![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
