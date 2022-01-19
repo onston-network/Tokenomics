@@ -10,25 +10,13 @@ coverY: 0
 
 ## 2022
 
-### 1Q
-
-* Partnership
 * Development ONSTON Blockchain frame-work
-
-### 2Q
-
 * Create 3D Land platform Objects
 * Development ONSTON SNS platform
-
-### 3Q
-
 * Development ONSTON Metaverse contents authoring tool
 * Launching ONSTON Marketplace
 * Close-Beta ONSTON Metaverse world
 * Development VR Experience space
-
-### 4Q
-
 * Development Crypto Swap service with Decentralized Finance
 * Launcing ONSTON SNS platform SDK
 * Development ONSTON SNS App
