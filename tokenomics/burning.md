@@ -1,3 +1,3 @@
 # Burning
 
-Comming soon!
+![](../.gitbook/assets/소각.png)
