@@ -1,5 +1,7 @@
 # Milestone
 
+
+
 Meatverse Platform Demo
 
 LAND pre-sales round 1 and 2
@@ -41,7 +43,5 @@ Multi Wallet Launching
 NFT Multi - Marketplace Launching
 
 이미지화 필 온스톤 아이콘 시계방향으로 &#x20;
-
-![](<../.gitbook/assets/image (3) (1).png>)
 
 온스톤아이콘형태로 이미지 제작필요  &#x20;

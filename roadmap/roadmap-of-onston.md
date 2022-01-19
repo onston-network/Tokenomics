@@ -46,4 +46,4 @@ coverY: 0
 
 분기 연도 없는 순서 나열 그림 필요
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)

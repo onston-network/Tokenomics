@@ -8,4 +8,4 @@ For that, price differences among shops in different areas enable economic activ
 
 
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
