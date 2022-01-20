@@ -1,6 +1,6 @@
 # Milestone
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 ### METAVERSE MILESTONE&#x20;
 
