@@ -29,7 +29,7 @@ The image recognition engine utilizes a knowledge graph in the process of unders
 
 ### Main function
 
-The image recognition engine serves to process incoming images in real time to recognize situations and provide recognized information to applications. To this end, it can consist of a visual analysis module that analyzes various information in an image and a visual understanding module to understand the situation based on the analyzed information.![](../.gitbook/assets/레벨1.png)
+The image recognition engine serves to process incoming images in real time to recognize situations and provide recognized information to applications. To this end, it can consist of a visual analysis module that analyzes various information in an image and a visual understanding module to understand the situation based on the analyzed information.
 
 ![](<../.gitbook/assets/image (5).png>)
 
