@@ -18,11 +18,15 @@ description: Goals of NFT AI creation
 
 
 
-## Image recognition engine tech stack
+### Image recognition engine technology.
 
+An image recognition engine is an engine that recognizes objects contained in an image and classifies what images are based on the recognized results.
 
+#### Use knowledge graphs to understand more detailed and accurate images.
 
-![](<../.gitbook/assets/image (9) (1) (1).png>)
+The image recognition engine utilizes a knowledge graph in the process of understanding the meaning of an image through object recognition in the image. Compared to conventional image recognition products that simply learn images tagged with words or sentences, more detailed and accurate image understanding is possible through linkage with meaning-based knowledge graphs.
+
+![](<../.gitbook/assets/image (10).png>)
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
