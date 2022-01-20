@@ -13,17 +13,18 @@ coverY: 0
 * Development ONSTON Blockchain frame-work
 * Create 3D Land platform Objects
 * Development ONSTON SNS platform
-* Development ONSTON Metaverse contents authoring tool
-* Launching ONSTON Marketplace
 * Close-Beta ONSTON Metaverse world
+* Development Metaverse Concerts
 * Development VR Experience space
 * Development Crypto Swap service with Decentralized Finance
 * Launcing ONSTON SNS platform SDK
-* Development ONSTON SNS App
 * Development XR 3D Avatar technology
 
 ## 2023
 
+* Development Genesis Tool
+* Development ONSTON SNS App
+* Launching ONSTON NFT Marketplace
 * Training ONSTON Metaverse SDK in ONSTON Metaverse
 * Development Metaverse Concerts
 * Implement XR technology with ONSTON SNS
