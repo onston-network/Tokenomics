@@ -6,9 +6,9 @@ coverY: 0
 
 # Metaverse Ecosystem
 
+![](../../.gitbook/assets/백서사진.png)
 
 
-![](<../../.gitbook/assets/image (5) (1).png>)
 
 > ## ECO SYSTEM
 
