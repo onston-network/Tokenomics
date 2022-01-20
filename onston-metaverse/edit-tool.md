@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1567361808960-dec9cb578182?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx0b29sfGVufDB8fHx8MTY0MjYwNTQ2MQ&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # EDIT TOOL
 
 ## Genesis Tool&#x20;
