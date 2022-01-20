@@ -6,7 +6,7 @@ coverY: 0
 
 # Token tokenomics
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### Using and Earn
 

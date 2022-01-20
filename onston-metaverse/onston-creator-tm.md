@@ -22,7 +22,7 @@ description: Goals of NFT AI creation
 
 
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
@@ -30,7 +30,7 @@ description: Goals of NFT AI creation
 
 ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverses.
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 ## ONSTON SDK
 

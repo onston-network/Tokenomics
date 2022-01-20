@@ -1,6 +1,6 @@
 # Milestone
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 Metaverse Platform Demo
 
