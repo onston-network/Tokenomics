@@ -2,43 +2,63 @@
 
 ![](<../.gitbook/assets/image (5).png>)
 
-Metaverse Platform Demo
+### METAVERSE MILESTONE&#x20;
 
-LAND pre-sales round 1 and 2
+•LAND pre-sales round 1 and 2&#x20;
 
-Metaverse platform beta launching
+•Create 3D Land platform Objects&#x20;
 
-NFT making service
+•VR Experience space Launching •Metaverse Concerts Launching&#x20;
 
-EDIT TOOL
+•Multilingual function support.&#x20;
 
-NFT Marketplace
+•Metaverse Platform DEMO/BETA&#x20;
 
-Metaverse Platform launching
+•Metaverse Platform launching&#x20;
 
-Developing on NFT Convert-Creator ㅣ&#x20;
+•Genesis TOOL launching&#x20;
 
-Burning plan
+•Multilingual function support.
 
-VR/AR Service
+&#x20;•lay-to-earn Service
 
-XR 3D Avatar Service
+&#x20;•Development XR 3D Avatar technology
 
-Multilingual function support.
+### MULTI METAVERSE MILESTONE
 
-Play-to-earn Service
+•Multi Wallet support&#x20;
 
-SNS Launching
+•Launching various coin swap services&#x20;
 
-Developing an onston Multi Wallet
+•ONSTON SNS platform Launching&#x20;
 
-Multi Wallet Launching
+•ONSTON SNS Mobile App Launching&#x20;
 
-Release Defi Staking Pool
+•Implement XR technology with ONSTON SNS&#x20;
 
-Launching various coin swap services
+•Development ONSTON Station for implement with other Metaverses
 
-Multi Wallet Launching
 
-NFT Multi - Marketplace Launching
+
+### NFT MILESTONE&#x20;
+
+•NFT minting&#x20;
+
+•NFT Creator Launching&#x20;
+
+•NFT Multi - Marketplace Launching
+
+•NFT Minting service on SNS
+
+### Block Chain MILESTONE
+
+•Development ONSTON Blockchain frame-work&#x20;
+
+•ONSTON Testnet&#x20;
+
+•ONSTON Mainnet&#x20;
+
+•Burning plan&#x20;
+
+•Release Defi Staking Pool
 
