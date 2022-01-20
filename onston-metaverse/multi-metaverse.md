@@ -10,7 +10,7 @@ coverY: 0
 
 ### Be Station of Different Metaverse
 
-The ONSTON serves as a Station in the world wide other metaverses where differnet metaverse users playing and trade their crypto assets.&#x20;
+The ONSTON serves as a Station in the world wide other metaverses where different metaverse users playing and trade their crypto assets.&#x20;
 
 ### Intergrated Marketplace&#x20;
 
