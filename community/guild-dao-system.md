@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1529156069898-49953e39b3ac?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxmcmllbmR8ZW58MHx8fHwxNjQyNjUyOTMx&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Guild DAO system
 
 Guild Community is a community formed by guilds from many areas in ONSTON Metaverse to seek to develop respective areas.
