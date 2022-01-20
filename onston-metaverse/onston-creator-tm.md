@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1614995008867-32eef7bff38c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxjcmVhdGV8ZW58MHx8fHwxNjQyNjUzMTQ2&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/제목을 입력해주세요_-001 (1).png
 coverY: 0
 description: Goals of NFT AI creation
 ---
