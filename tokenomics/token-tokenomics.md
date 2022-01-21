@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxncmFwaHxlbnwwfHx8fDE2NDI2NTMzODE&ixlib=rb-1.2.1&q=85
-coverY: 0
+  https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxlY29ub21pY3xlbnwwfHx8fDE2NDI3NTE1Mjk&ixlib=rb-1.2.1&q=85
+coverY: -753.6710719530104
 ---
 
 # Token tokenomics
