@@ -25,7 +25,7 @@ An image recognition engine is an engine that recognizes objects contained in an
 
 The image recognition engine utilizes a knowledge graph in the process of understanding the meaning of an image through object recognition in the image. Compared to conventional image recognition products that simply learn images tagged with words or sentences, more detailed and accurate image understanding is possible through linkage with meaning-based knowledge graphs.
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Main function
 
@@ -37,7 +37,7 @@ The image recognition engine serves to process incoming images in real time to r
 
 ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverses.
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 ## ONSTON SDK
 
