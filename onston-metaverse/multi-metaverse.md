@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/q5lx18qr-900.jpg
+cover: ../.gitbook/assets/iss-international-space-station-3D-model_600.jpg
 coverY: 0
 ---
 
