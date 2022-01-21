@@ -18,4 +18,4 @@ ONSTON together with ICONIC Sound, iHQ, 2Y Entertainment, IOK Company.
 
 ![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
