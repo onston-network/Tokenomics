@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxlYXJ0aHxlbnwwfHx8fDE2NDI2NTMyNzU&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/q5lx18qr-900.jpg
 coverY: 0
 ---
 
