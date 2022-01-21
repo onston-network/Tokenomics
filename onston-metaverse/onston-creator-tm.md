@@ -13,7 +13,7 @@ description: Goals of NFT AI creation
 
 &#x20;    &#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 
 
