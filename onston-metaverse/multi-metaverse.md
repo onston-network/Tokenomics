@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/iss-international-space-station-3D-model_600.jpg
+cover: ../.gitbook/assets/제목 없음.png
 coverY: 0
 ---
 
