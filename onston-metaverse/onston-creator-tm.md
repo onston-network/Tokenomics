@@ -35,7 +35,7 @@ The image recognition engine serves to process incoming images in real time to r
 
 ## Level2 : Final Goal&#x20;
 
-ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverses.
+ONSTON Creator provides a way to create, assemble, and share a new 3D model with an NFT object obtained from ONSTON Marketplace Or make it usable in other supported metaverse.
 
 ![](<../.gitbook/assets/image (10).png>)
 
