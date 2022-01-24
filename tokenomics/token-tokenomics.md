@@ -8,6 +8,8 @@ coverY: -753.6710719530104
 
 ![](<../.gitbook/assets/image (9) (1).png>)
 
+The characteristics of ONSTON acquired from ONSTON Metaverse are listed on the exchange and can be exchanged for cryptocurrency or stable coins. This means that players can make a living just by playing ONSTON.
+
 ### Using and Earn
 
 ![](<../.gitbook/assets/Using and Earn.png>)
