@@ -8,6 +8,10 @@ coverY: 0
 
 ONSTON Metaverse has default space with in VR experience
 
+[https://www.youtube.com/watch?v=0oxQmbe0tKU](https://www.youtube.com/watch?v=0oxQmbe0tKU)
+
+{% embed url="https://www.youtube.com/watch?v=0oxQmbe0tKU" %}
+
 [https://www.youtube.com/watch?v=U9hn44srhnY](https://www.youtube.com/watch?v=U9hn44srhnY)
 
 {% embed url="https://www.youtube.com/watch?v=U9hn44srhnY" %}
