@@ -5,4 +5,4 @@ coverY: 0
 
 # Staking
 
-More info comming soon
+more info comming soon!!!
