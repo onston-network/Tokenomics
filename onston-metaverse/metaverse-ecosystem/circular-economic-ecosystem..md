@@ -8,7 +8,7 @@ coverY: 0
 
 
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 In the economic activity system route ONSTON, ONSTON shops are on each area.
 
